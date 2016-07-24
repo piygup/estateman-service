@@ -1,2 +1,2 @@
 # estateman-service
-Estateman Service Code related repository
+Estateman Service Code.
